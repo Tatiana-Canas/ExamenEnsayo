@@ -72,7 +72,7 @@ def Menu_principal():
             busca_tamaño_ruedas()
                 
         elif opcion == "6":
-            actualiza_precio_stock()               
+            actualiza_precio_stock()                
 
         elif opcion == "7":
             print("Programa terminado...")
@@ -80,14 +80,5 @@ def Menu_principal():
         else:
             print("Ingrese una opción válida: 1 a 7 ")  
 
-        
-                
-                
-             
-                
-                
-                
-                
-                
-                )
-                        
+
+Menu_principal()                       
